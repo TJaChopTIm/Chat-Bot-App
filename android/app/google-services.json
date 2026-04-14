@@ -1,8 +1,8 @@
 {
   "project_info": {
-    "project_number": "589229964964",
-    "project_id": "dacs01",
-    "storage_bucket": "dacs01.firebasestorage.app"
+    "project_number": "du_an_firebase",
+    "project_id": "Ten_du_an_firebase",
+    "storage_bucket": "du_an_firebase"
   },
   "client": [
     {
